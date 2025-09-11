@@ -4,7 +4,7 @@
 
 # Josselin
 
-My name is Josselin. My major is Software engineering.
+My name is Josselin. This is my last year.
 
 # Josselin
 
